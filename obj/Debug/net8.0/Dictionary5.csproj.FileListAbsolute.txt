@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Dictionary5\bin\Debug\net8.0\Dictionary5.exe
+C:\Users\ET73\Downloads\projetos-c#\Dictionary5\bin\Debug\net8.0\Dictionary5.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Dictionary5\bin\Debug\net8.0\Dictionary5.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Dictionary5\bin\Debug\net8.0\Dictionary5.dll
+C:\Users\ET73\Downloads\projetos-c#\Dictionary5\bin\Debug\net8.0\Dictionary5.pdb
+C:\Users\ET73\Downloads\projetos-c#\Dictionary5\obj\Debug\net8.0\Dictionary5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Dictionary5\obj\Debug\net8.0\Dictionary5.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Dictionary5\obj\Debug\net8.0\Dictionary5.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Dictionary5\obj\Debug\net8.0\Dictionary5.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Dictionary5\obj\Debug\net8.0\Dictionary5.dll
+C:\Users\ET73\Downloads\projetos-c#\Dictionary5\obj\Debug\net8.0\refint\Dictionary5.dll
+C:\Users\ET73\Downloads\projetos-c#\Dictionary5\obj\Debug\net8.0\Dictionary5.pdb
+C:\Users\ET73\Downloads\projetos-c#\Dictionary5\obj\Debug\net8.0\Dictionary5.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Dictionary5\obj\Debug\net8.0\ref\Dictionary5.dll
